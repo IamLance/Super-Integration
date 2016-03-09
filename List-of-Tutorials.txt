@@ -1,0 +1,50 @@
+App Scan
+ongj.github.io/appscan/
+
+JSP, Python, PHP, Node.js Tutorials
+http://shimshinatti.github.io/
+
+Blazemeter
+ataichi.github.io
+
+Single Sign-On
+renzowu3.github.io/sso/
+
+Auto-Scaling
+kevindomm.github.io
+
+Alchemy API
+string-args.github.io
+
+Language Translation
+jodanchua.github.io/language-translation/
+
+Speech to Text:
+http://jaocoloma.github.io/speechtotext/
+
+Text to Speech:
+http://jaocoloma.github.io/texttospeech/
+
+Tradeoff Analytics:
+http://giodeealbayda.github.io/tradeoff-analytics/
+
+Object Storage:
+http://danicacorpuz.github.io/objectstorage/
+
+SQL Database & Dash DB:
+https://iamlance.github.io/Tutorial/
+
+Dataworks
+http://tealblend.github.io 
+
+Redis Cloud
+http://int-argc.github.io/redis-tutorial/
+
+Insights for Twitter
+https://kurtcoder.github.io/insights-for-twitter
+
+MongoDB 
+http://theaids.github.io/mongodb/
+
+Cloudant NoSQL DB
+http://theaids.github.io/cloudant-nosql/
